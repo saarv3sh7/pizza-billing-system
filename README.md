@@ -8,19 +8,24 @@ A full-stack, production-ready Point of Sale (POS) and billing application desig
 # Screenshots
 
 ## Login Screen
-![Login Screen](Screenshots and Bills/Login.png)
+![Login Screen](ss-and-bills/Login.png)
 
 ## POS Billing Screen
-![POS Screen](Screenshot/POS_Screen.png) *(Note: Replace with your actual image path)*
+![POS Screen](ss-and-bills/Billing.png)
+![POS Screen 2](ss-and-bills/order-success.png)
 
 ## Admin Dashboard & Menu Management
-![Admin Dashboard](Screenshot/Dashboard.png) *(Note: Replace with your actual image path)*
+![Admin Screen](ss-and-bills/Dashboard.png)
+![Admin Screen 2](ss-and-bills/Manager-Dashboard.png)
+![Admin Screen 3](ss-and-bills/Menu-items.png)
+![Admin Screen 4](ss-and-bills/Add-new-item.png)
 
 ## Invoice History Screen
-![Invoice Screen](Screenshots and Bills/Invoice History.png)
+![Invoice History Screen](ss-and-bills/Invoice-History.png)
 
 ## Thermal Receipt & KOT PDF
-![PDF Invoice](Screenshot/Thermal_Invoice.png) *(Note: Replace with your actual image path)*
+![Invoice PDF](ss-and-bills/invoice-INV-20260808-003.pdf)
+![KOT PDF](ss-and-bills/KOT.pdf)
 
 ---
 
