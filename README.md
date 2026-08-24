@@ -24,8 +24,8 @@ A full-stack, production-ready Point of Sale (POS) and billing application desig
 ![Invoice History Screen](ss-and-bills/Invoice-History.png)
 
 ## Thermal Receipt & KOT PDF
-![Invoice PDF](ss-and-bills/invoice-INV-20260808-003.pdf)
-![KOT PDF](ss-and-bills/KOT.pdf)
+[Invoice PDF](ss-and-bills/invoice-INV-20260808-003.pdf)
+[KOT PDF](ss-and-bills/KOT.pdf)
 
 ---
 
